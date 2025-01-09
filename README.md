@@ -1,4 +1,4 @@
-# hp-goblet-of-fire-fix
+# Harry-Potter-and-the-Goblet-of-Fire-PC-Fix
 
 This is the Harry Potter and the Goblet of Fire d3d9 wrapper.
 
