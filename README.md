@@ -1,37 +1,38 @@
-# Harry-Potter-and-the-Goblet-of-Fire-PC-Fix
+# Harry Potter and the Goblet of Fire PC Fix
 
-This is the Harry Potter and the Goblet of Fire d3d9 wrapper.
+# Requirements before using fix
+IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
+**Watch the official fix guide video** here on how to install the game and use the fix - https://www.youtube.com/watch?v=gMjPTeB_tHI&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=7&t=1s 
 
-Please see this youtube video for an in depth tutorial on the fix
+**General point** – the issue that caused the game to hard crash with resolutions above 1080p on certain levels has been patched with this fix.
 
-https://www.youtube.com/watch?v=gMjPTeB_tHI&t=0s
+# Instructions
+Go to releases, download the Harry Potter and the Goblet of Fire Fix, extract the d3d9.dll and d3d9.ini files into your game folder next to the gof_f.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
-simply go to releases download hp4fix.zip put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go 
+# Resolution/Aspect Ratio
+The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the resolution that you wish to use in both the Width and Height area.
 
-you can edit settings in d3d9.ini 
+The default for aspect ratio is (1) which is (16:9). Choose the aspect ratio that is correct for you from the selection within the d3d9.ini file and replace (1) with the number correct for you.
 
-Default for FPS cap is 60 you can change it as you like or uncap with 0
+# FPS
+The default for FPS is (60) you can change it as you wish or fully uncap it with 0 with the FPSLimit option in the d3d9.ini file.
 
-Default for resolution is 2 (1920 x 1080) 
+# FOV
+The default for FOV is (0) which is the original games FOV 114. You can replace (0) with a number that is higher than 114 to zoom out FOV in the game.
 
-Default for fov is (0) origional 114 you can replace 0 with your number higher than 114 will zoom it out in game.
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-goblet-of-fire-2005 
 
-Default for fpsanimation is 0 which is off or the origional game animation speed, we have tested the game fully and if you set this to 1 or 2 you can play through almost all of the game but one blubotuber is broken so you cant 100% the game so change it at your own risk.
+# Issues/Problems
+If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
-Default for aspect ratio is 1 which is (16:9) 
+# Credits
 
-If you have any issues please go to discord for help 
+Credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
-https://discord.gg/eVJ7sQH7Cc
+Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
+Team:
 
-brought to you by Fix Enhancers 
-
-https://fixenhancers.wixsite.com/fix-enhancers
-
-Team: 
-
-Chip, JokerAlex21, Blankname.
+Chip and JokerAlex21.
