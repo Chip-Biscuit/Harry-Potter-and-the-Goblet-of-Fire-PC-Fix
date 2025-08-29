@@ -17,7 +17,7 @@ Watch the official fix guide video here on how to install the game and use the f
 ###### <i>Click the image above to watch the video</i>
 
 # General point
-<br> the issue that caused the game to hard crash with resolutions above 1080p on certain levels has been patched with this fix.
+ the issue that caused the game to hard crash with resolutions above 1080p on certain levels has been patched with this fix.
 
 # Instructions
 Go to releases, download the Harry Potter and the Goblet of Fire Fix, extract the d3d9.dll and d3d9.ini files into your game folder next to the gof_f.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
