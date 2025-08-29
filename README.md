@@ -6,7 +6,15 @@
 # Requirements before using fix
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-**Watch the official fix guide video** here on how to install the game and use the fix - https://www.youtube.com/watch?v=gMjPTeB_tHI&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=7&t=1s 
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://www.youtube.com/watch?v=gMjPTeB_tHI&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=7&t=1s">
+  <img src="https://github.com/user-attachments/assets/aff8e05c-30d5-4c0c-9862-7b1e49d6b890" alt="The Hobbit 2003" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
 
 **General point** – the issue that caused the game to hard crash with resolutions above 1080p on certain levels has been patched with this fix.
 
