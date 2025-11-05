@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Harry Potter and the Goblet of Fire PC Fix
 
 ![hp42](https://github.com/user-attachments/assets/0ef12ed7-1d59-4a9b-a11a-9213db8f2cb7)
