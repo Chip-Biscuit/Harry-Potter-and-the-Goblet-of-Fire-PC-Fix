@@ -8,6 +8,10 @@
 
 Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
 
+[![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Harry-Potter-and-the-Goblet-of-Fire-PC-Fix/total?label=Total%20Downloads)](https://github.com/Chip-Biscuit/Harry-Potter-and-the-Goblet-of-Fire-PC-Fix/releases)
+
+<sub>click the Total Downloads button above to take you to the releases page and download the zip at the bottom</sub>
+
 </div>
 
 # Harry Potter and the Goblet of Fire PC Fix
